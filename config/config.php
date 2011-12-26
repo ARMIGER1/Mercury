@@ -1,31 +1,22 @@
 <?php
     /**
-	 * Config file
-	 *
-	 * Contains various global configuration options.
-	 *
-	 * LICENSE: CC BY-SA
-	 * -----------------
-	 * This license lets you, the user, remix, tweak and build upon
-	 * this work even for commercial purposes, as long as you credit
-	 * the author of this file and license your new creations
-	 * under the identical terms.  This license is often compared to
-	 * "copyleft" free and open-source software licenses.
-	 *
-	 * @category    Mercury
-	 * @package     Mercury_Config
-	 * @subpackage  None
-	 * @copyright   Copyright (c) ARMIGER1
-	 * @license     http://creativecommons.org/licenses/by-sa/3.0/
-	 * @version     1.0
-	 * @link        http://github.com/ARMIGER1/Mercury
-	 * @since       No version
-	 */
-     
+     * Config File
+     *
+     * Contains various global configuration options.
+     *
+     * @category    Mercury
+     * @package     Mercury_Config
+     * @subpackage  Config_Files
+     * @copyright   Copyright (c) 2011, ARMIGER1
+     * @license     http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons BY-SA 3.0
+     * @version     1.0
+     * @link        http://github.com/ARMIGER1/Mercury Mercury
+     * @since       1.0
+     */
+    
     /**
      * The directory separator for every single file path.
      * @var char A character that separates directories on the filesystem.
-     * @todo Define a directory separator.
      */
     define('DS', 'DIRECTORY_SEPARATOR');
     
@@ -38,9 +29,8 @@
     /**
      * Your site root directory.
      * @var string Your site root directory.
-     * @todo Fill this in.
      */
-    define('SITE_ROOT', ROOT_DIR);
+    define('SITE_ROOT', 'ROOT_DIR');
     
     /**
      * The directory where all logs are kept.

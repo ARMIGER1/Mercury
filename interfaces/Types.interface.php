@@ -1,26 +1,19 @@
 <?php
     /**
-	 * Types Interface
-	 *
-	 * Contains all global types needed for Mercury.
-	 *
-	 * LICENSE: CC BY-SA
-	 * -----------------
-	 * This license lets you, the user, remix, tweak and build upon
-	 * this work even for commercial purposes, as long as you credit
-	 * the author of this file and license your new creations
-	 * under the identical terms.  This license is often compared to
-	 * "copyleft" free and open-source software licenses.
-	 *
-	 * @category    Mercury
-	 * @package     Mercury_Interfaces
-	 * @subpackage  Types
-	 * @copyright   Copyright (c) ARMIGER1
-	 * @license     http://creativecommons.org/licenses/by-sa/3.0/
-	 * @version     1.0
-	 * @link        http://github.com/ARMIGER1/Mercury
-	 * @since       No version
-	 */
+     * Types Interface
+     *
+     * Contains all global types needed for Mercury.
+     *
+     * @category    Mercury
+     * @package     Mercury_Interfaces
+     * @subpackage  Types
+     * @copyright   Copyright (c) ARMIGER1
+     * @license     http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons BY-SA 3.0
+     * @version     1.0
+     * @link        http://github.com/ARMIGER1/Mercury
+     * @since       No version
+     */
+    
     interface Types {
         
         /**
