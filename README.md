@@ -85,4 +85,4 @@ To load a class, simply insert the following line after you've included
 
 ```load('[Filename of class to load]');```
 
-## Volia!  You're not ready to use Mercury in your project!  Happy coding!
+## Volia!  You're now ready to use Mercury in your project!  Happy coding!
